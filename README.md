@@ -2,11 +2,9 @@
 
 ## Introduction
 
-Breast cancer is the leading cause of mortality among women worldwide. 
+Breast cancer grade identification is a labor-intensive task and needs human experts and time to continue the diagnosis.
 
-Breast cancer grade classification is a labor-intensive task and needs human experts and time to continue the diagnosis. 
-
-This research aims to a new computer-aided diagnosis approach to continue the existing laboratory grading procedure with higher accuracy rates. 
+This research aims to a new computer-aided diagnosis approach to continue the existing laboratory grading procedure with higher accuracy rates.
 
 ## Methodology
 
@@ -21,26 +19,26 @@ weight30.h5: trained model for 3-predict (1-grade 1, 2-grade 2, 3-grade 3)
 
 weight25.h5: trained model for 4-predict (0-benign, 1-grade 1, 2-grade 2, 3-grade 3)
 
-### Implementation of the Machine Learning Models 
+### Implementation of the Machine Learning Models
 
 Implemented the machine learning models  with
 Spyder and Anaconda framework.
 
-Libraries, dependencies used:  TensorFlow, Keras, 
+Libraries, dependencies used:  TensorFlow, Keras,
 sklearn, and OpenCV.
 
 Apart from that, a Flask Application Program
 Interface with Anaconda framework was developed to
 obtain the predictions.
 
-### Implementation of the Inference Tool  
+### Implementation of the Inference Tool
 
 Implemented an inference tool with Apache NetBeans with
 Maven dependencies and used MongoDB as the
 database.
 
 Apart from that, integrated the Application Program Interface
- to obtain the predictions.
+to obtain the predictions.
 
 ##Results
 
