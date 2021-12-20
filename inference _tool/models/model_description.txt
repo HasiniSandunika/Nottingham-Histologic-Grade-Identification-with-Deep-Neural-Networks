@@ -1,0 +1,5 @@
+weight20.h5: trained model for 2-predict (0-benign, 1-malignant)
+weight30.h5: trained model for 3-predict (1-grade 1, 2-grade 2, 3-grade 3)
+weight25.h5: trained model for 4-predict (0-benign, 1-grade 1, 2-grade 2, 3-grade 3)
+
+Note: Specify the model paths when integrating with the inference tool.
