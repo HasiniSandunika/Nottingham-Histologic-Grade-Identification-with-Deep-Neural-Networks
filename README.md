@@ -6,6 +6,11 @@ Breast cancer grade identification is a labor-intensive task and needs human exp
 
 This research aims to a new computer-aided diagnosis approach to continue the existing laboratory grading procedure with higher accuracy rates.
 
+## Data Sources
+
+[1] H. Bolhasani, E. Amjadi, M. Tabatabaeian, and S. J. Jassbi, “A histopathological image dataset for grading breast invasive ductal carcinomas,” Inform. Med. Unlocked, vol. 19, no. 100341, p. 100341, 2020.
+
+[2] F. A. Spanhol, L. S. Oliveira, C. Petitjean, and L. Heutte, “A Dataset for Breast Cancer Histopathological Image Classification,” IEEE Trans. Biomed. Eng., vol. 63, no. 7, pp. 1455–1462, 2016.
 ## Methodology
 
 Trained 3 DNN models with transfer learning (DenseNet) including, 2-predict, 3-predict, and
@@ -40,10 +45,10 @@ database.
 Apart from that, integrated the Application Program Interface
 to obtain the predictions.
 
-##Results
+## Results
 
 Evaluated the models with the reserved test datasets and obtained more than 94% accuracy rates for all the trained models.
 
-#### Find the research paper: @@@@@@@@@@@@@@@@
+#### Find the research work at: @@@@@@@@@@@@@@@@
 
 
