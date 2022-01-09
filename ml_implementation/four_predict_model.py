@@ -138,6 +138,8 @@ model = load_model('/four_predict_model/models/weights25.h5')
 model.summary()
 y_test = np.load('/four_predict_model/numpy/y_test.npy')
 x_test = np.load('/four_predict_model/numpy/x_test.npy')
+print("Size of the X test dataset: ",x_test.shape)
+print("Size of the Y test dataset: ",y_test.shape)
 score = model.evaluate(x_test, y_test , verbose=2) 
 print('Testing accuracy : ', score[1]*100,'%')
 
