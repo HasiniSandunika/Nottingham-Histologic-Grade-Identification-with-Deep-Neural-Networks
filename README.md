@@ -62,6 +62,10 @@ to obtain the predictions.
 
 Evaluated the models with the reserved test datasets and obtained more than 94% accuracy rates for all the trained models.
 
+## License
+
+GNU General Public License v3.0
+
 #### Find the research work at: @@@@@@@@@@@@@@@@
 
 
