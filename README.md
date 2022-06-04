@@ -66,7 +66,7 @@ Evaluated the models with the reserved test datasets and obtained more than 94% 
 
 GNU General Public License v3.0
 
-#### Find the research work at: @@@@@@@@@@@@@@@@
+#### Find the research work at: https://conf.kln.ac.lk/icatc/media/attachments/2022/04/20/icatc-proceeding-2021.pdf
 
 
 
